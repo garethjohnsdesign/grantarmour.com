@@ -5,7 +5,7 @@ position: 8
 is-front: true
 image: "/uploads/supersymmetry.jpg"
 vimeo: 151020881
-credit: "Director / D.O.P / Original Music"
+credit: Director / D.O.P / Original Music
 layout: project
 ---
 

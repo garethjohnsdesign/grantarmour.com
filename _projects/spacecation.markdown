@@ -5,7 +5,7 @@ position: 8
 is-front: true
 image: "/uploads/spacecation.jpg"
 vimeo: 151020881
-credit: "Director / Camera"
+credit: Director / Camera
 layout: project
 ---
 

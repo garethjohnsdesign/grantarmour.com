@@ -37,13 +37,13 @@ clients:
 - title: Red Bull
   link: 
 - title: Riot Games
-  link:
+  link: 
 - title: Totem
-  link:
+  link: 
 - title: VICE
-  link:
+  link: 
 - title: Warp
-  link:
+  link: 
 is-collaborators-shown: false
 collaborators:
 - title: Matt Walker

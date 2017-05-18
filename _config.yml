@@ -30,7 +30,8 @@ defaults:
     awards: 
     layout: project
 url: http://grantarmour.com
-description: London-based Director specialising in documentaries, branded content and music videos.
+description: London-based Director specialising in documentaries, branded content
+  and music videos.
 job-title: Director
 permalink: pretty
 exclude:
@@ -57,8 +58,8 @@ kramdown:
 highlighter: rouge
 company: Grant Armour
 email: info@grantarmour.com
-google_site_verification:
-analytics:
+google_site_verification: 
+analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%Y"

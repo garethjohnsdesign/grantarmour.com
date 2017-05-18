@@ -5,7 +5,7 @@ position: 8
 is-front: true
 image: "/uploads/very-first-breath.jpg"
 vimeo: 148493462
-credit: "Director"
+credit: Director
 layout: project
 ---
 
