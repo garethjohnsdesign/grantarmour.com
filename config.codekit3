@@ -159,10 +159,46 @@
 		"oAP": "\/_layouts\/project.html",
 		"oF": 0
 		},
+	"\/_projects\/blood-sacrifice-in-sumba.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/blood-sacrifice-in-sumba.markdown",
+		"oF": 0
+		},
+	"\/_projects\/boy-racer.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/boy-racer.markdown",
+		"oF": 0
+		},
+	"\/_projects\/british-wrestler.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/british-wrestler.markdown",
+		"oF": 0
+		},
+	"\/_projects\/esports.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/esports.markdown",
+		"oF": 0
+		},
 	"\/_projects\/japans-robot-hotel.markdown": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/japans-robot-hotel.markdown",
+		"oF": 0
+		},
+	"\/_projects\/kwes-and-friends.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/kwes-and-friends.markdown",
+		"oF": 0
+		},
+	"\/_projects\/punk-vs-sharia.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/punk-vs-sharia.markdown",
 		"oF": 0
 		},
 	"\/_projects\/spacecation.markdown": {
@@ -171,10 +207,40 @@
 		"oAP": "\/_projects\/spacecation.markdown",
 		"oF": 0
 		},
+	"\/_projects\/stormzy-in-south-africa.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/stormzy-in-south-africa.markdown",
+		"oF": 0
+		},
 	"\/_projects\/supersymmetry.markdown": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/supersymmetry.markdown",
+		"oF": 0
+		},
+	"\/_projects\/the-digital-love-industry.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/the-digital-love-industry.markdown",
+		"oF": 0
+		},
+	"\/_projects\/the-south-korean-love-industry.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/the-south-korean-love-industry.markdown",
+		"oF": 0
+		},
+	"\/_projects\/tirzah-and-micachu-im-not-dancing.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/tirzah-and-micachu-im-not-dancing.markdown",
+		"oF": 0
+		},
+	"\/_projects\/ukrainian-fashion-week.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/ukrainian-fashion-week.markdown",
 		"oF": 0
 		},
 	"\/_projects\/very-first-breath.markdown": {
@@ -183,17 +249,103 @@
 		"oAP": "\/_projects\/very-first-breath.markdown",
 		"oF": 0
 		},
+	"\/_projects\/vessel-at-the-tate.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/vessel-at-the-tate.markdown",
+		"oF": 0
+		},
 	"\/_site": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/build\/_site",
 		"oF": 0
 		},
+	"\/_uploads\/blood-sacrifice-in-sumba.jpg": {
+		"ft": 16384,
+		"iS": 232811,
+		"oA": 0,
+		"oAP": "\/_uploads\/blood-sacrifice-in-sumba.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/boy-racer.jpg": {
+		"ft": 16384,
+		"iS": 118707,
+		"oA": 0,
+		"oAP": "\/_uploads\/boy-racer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/british-wrestler.jpg": {
+		"ft": 16384,
+		"iS": 214905,
+		"oA": 0,
+		"oAP": "\/_uploads\/british-wrestler.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/digital-love.jpg": {
+		"ft": 16384,
+		"iS": 94579,
+		"oA": 0,
+		"oAP": "\/_uploads\/digital-love.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/esports.jpg": {
+		"ft": 16384,
+		"iS": 274971,
+		"oA": 0,
+		"oAP": "\/_uploads\/esports.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/im-not-dancing.jpg": {
+		"ft": 16384,
+		"iS": 64652,
+		"oA": 0,
+		"oAP": "\/_uploads\/im-not-dancing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/japans-robot-hotel.jpg": {
 		"ft": 16384,
 		"iS": 45397,
 		"oA": 0,
 		"oAP": "\/_uploads\/japans-robot-hotel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/kwes-and-friends.jpg": {
+		"ft": 16384,
+		"iS": 107834,
+		"oA": 0,
+		"oAP": "\/_uploads\/kwes-and-friends.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/punk-vs-sharia.jpg": {
+		"ft": 16384,
+		"iS": 120452,
+		"oA": 0,
+		"oAP": "\/_uploads\/punk-vs-sharia.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -209,6 +361,16 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/_uploads\/stormzy-in-south-africa.jpg": {
+		"ft": 16384,
+		"iS": 145869,
+		"oA": 0,
+		"oAP": "\/_uploads\/stormzy-in-south-africa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/supersymmetry.jpg": {
 		"ft": 16384,
 		"iS": 389633,
@@ -219,11 +381,41 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/the-south-korean-love-industry.jpg": {
+		"ft": 16384,
+		"iS": 175809,
+		"oA": 0,
+		"oAP": "\/_uploads\/the-south-korean-love-industry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/ukrainian-fashion-week.jpg": {
+		"ft": 16384,
+		"iS": 83894,
+		"oA": 0,
+		"oAP": "\/_uploads\/ukrainian-fashion-week.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/very-first-breath.jpg": {
 		"ft": 16384,
 		"iS": 67518,
 		"oA": 0,
 		"oAP": "\/_uploads\/very-first-breath.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/vessel-at-the-tate.jpg": {
+		"ft": 16384,
+		"iS": 211843,
+		"oA": 0,
+		"oAP": "\/_uploads\/vessel-at-the-tate.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
