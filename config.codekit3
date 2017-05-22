@@ -171,10 +171,22 @@
 		"oAP": "\/_projects\/boy-racer.markdown",
 		"oF": 0
 		},
+	"\/_projects\/brainfreeze.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/brainfreeze.markdown",
+		"oF": 0
+		},
 	"\/_projects\/british-wrestler.markdown": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/british-wrestler.markdown",
+		"oF": 0
+		},
+	"\/_projects\/claire-barrow-move-on.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/claire-barrow-move-on.markdown",
 		"oF": 0
 		},
 	"\/_projects\/esports.markdown": {
@@ -243,6 +255,18 @@
 		"oAP": "\/_projects\/ukrainian-fashion-week.markdown",
 		"oF": 0
 		},
+	"\/_projects\/undercover-cop.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/undercover-cop.markdown",
+		"oF": 0
+		},
+	"\/_projects\/undercover-migrant.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/undercover-migrant.markdown",
+		"oF": 0
+		},
 	"\/_projects\/very-first-breath.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -281,11 +305,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/brainfreeze.jpg": {
+		"ft": 16384,
+		"iS": 115280,
+		"oA": 0,
+		"oAP": "\/_uploads\/brainfreeze.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/british-wrestler.jpg": {
 		"ft": 16384,
 		"iS": 214905,
 		"oA": 0,
 		"oAP": "\/_uploads\/british-wrestler.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/claire-barrow-move-on.jpg": {
+		"ft": 16384,
+		"iS": 114447,
+		"oA": 0,
+		"oAP": "\/_uploads\/claire-barrow-move-on.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -396,6 +440,26 @@
 		"iS": 83894,
 		"oA": 0,
 		"oAP": "\/_uploads\/ukrainian-fashion-week.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/undercover-cop.jpg": {
+		"ft": 16384,
+		"iS": 234116,
+		"oA": 0,
+		"oAP": "\/_uploads\/undercover-cop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/undercover-migrant.jpg": {
+		"ft": 16384,
+		"iS": 239233,
+		"oA": 0,
+		"oAP": "\/_uploads\/undercover-migrant.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -567,23 +631,13 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/img\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/img\/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/assets\/img\/og-image.png": {
 		"ft": 32768,
 		"iS": 14790,
 		"oA": 0,
 		"oAP": "\/assets\/img\/og-image.png",
 		"oF": 0,
-		"oIPL": 0,
+		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100

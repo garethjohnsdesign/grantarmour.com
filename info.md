@@ -5,49 +5,49 @@ number: "+44 (0)78 9618 2191"
 is-clients-shown: true
 clients:
 - title: Applied Minds
-  link: http://elliotsimpson.co.uk
+  link: http://appliedminds.com
 - title: Channel 4
-  link: http://www.kodemedia.com
+  link: http://www.channel4.com
 - title: Diesel
-  link: http://www.gasandelectric.co.uk
+  link: http://uk.diesel.com/en
 - title: Greco-Roman
-  link: http://www.wearefamilia.com
+  link: https://www.musicglue.com/greco-roman
 - title: Gucci
-  link: http://www.niceandpolite.com
+  link: https://www.gucci.com/uk/
 - title: Island Records
-  link: http://www.vice.com
+  link: http://www.islandrecords.co.uk
 - title: Kayak
-  link: 
+  link: https://www.kayak.co.uk
 - title: Mac Cosmetics
-  link: 
+  link: http://www.maccosmetics.co.uk
 - title: Marshall
-  link: http://elliotsimpson.co.uk
+  link: https://www.marshallheadphones.com
 - title: Motherboard
-  link: http://www.kodemedia.com
+  link: https://motherboard.vice.com/en_us
 - title: Nandos
-  link: http://www.gasandelectric.co.uk
+  link: https://www.nandos.co.uk
 - title: Noisey
-  link: http://www.wearefamilia.com
+  link: https://noisey.vice.com/en_uk
 - title: Palladium
-  link: http://www.niceandpolite.com
+  link: http://www.palladiumboots.com/uk/
 - title: Philips
-  link: http://www.vice.com
+  link: http://www.philips.co.uk
 - title: Quality Control Music
-  link: 
+  link: https://en-gb.facebook.com/RealQualityControl/
 - title: Red Bull
-  link: 
+  link: https://www.redbull.com/gb-en/
 - title: Riot Games
-  link: 
+  link: https://www.riotgames.com
 - title: Totem
-  link: 
+  link: http://totemlondon.com
 - title: VICE
-  link: 
+  link: https://www.vice.com/en_uk
 - title: Warp
-  link: 
+  link: https://warp.net
 is-collaborators-shown: false
 collaborators:
-- title: Matt Walker
-  link: http://www.mattwalkerfilms.com
+- title: Gareth Johns
+  link: http://www.garethjohnsdesign.com
 is-press-shown: false
 press:
 - title: British Journal of Photography

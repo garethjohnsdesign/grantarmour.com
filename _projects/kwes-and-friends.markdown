@@ -2,7 +2,7 @@
 title: Kwes and Friends
 date: 2013-08-20 00:00:00 Z
 position: 8
-is-front: true
+is-front: false
 image: "/uploads/kwes-and-friends.jpg"
 vimeo: 151531447
 credit: Camera / Contributor / Original Compositions

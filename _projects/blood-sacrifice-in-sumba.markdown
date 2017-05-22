@@ -4,7 +4,7 @@ date: 2015-01-16 00:00:00 Z
 position: 8
 is-front: true
 image: "/uploads/blood-sacrifice-in-sumba.jpg"
-vimeo: 116950778
+vimeo: 73222831
 credit: Director / Editor
 layout: project
 ---

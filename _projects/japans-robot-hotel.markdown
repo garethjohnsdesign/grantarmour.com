@@ -4,7 +4,7 @@ date: 2016-01-07 00:00:00 Z
 position: 8
 is-front: true
 image: "/uploads/japans-robot-hotel.jpg"
-vimeo: 150893204
+vimeo: 151020881
 credit: Director / Camera
 layout: project
 ---
