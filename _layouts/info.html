@@ -18,14 +18,18 @@ layout: default
 <div class="small-12 medium-7 large-5 columns">
 {{ content }}
 
+{% if page.is-showreel-shown == true %}
+<p><a data-open="showreel">Showreel</a></p>
+
 <div class="large reveal" id="showreel" data-reveal data-close-on-click="true" data-animation-in="fade-in" data-animation-out="fade-out">
   <div class="responsive-embed widescreen">
-        <iframe src="https://player.vimeo.com/video/178543254?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe src="https://player.vimeo.com/video/{{page.showreel}}?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
   <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
   </button>
 </div>
+{% endif %}
 
 
 {% if page.is-clients-shown == true %}
