@@ -1,0 +1,76 @@
+---
+title: Grant Armour
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: projects
+  values:
+    is-front: 
+    image: 
+    vimeo: 
+    youtube: 
+    director: 
+    production-company: 
+    awards: 
+    layout: project
+url: http://grantarmour.com
+description: London-based Director specialising in documentaries, branded content
+  and music videos.
+job-title: Director
+permalink: pretty
+exclude:
+- Gruntfile.js
+- Gemfile
+- Gemfile.lock
+- package.json
+- README*
+- node_modules
+- ".gitignore"
+- bower_components
+- config.codekit3
+- CHANGELOG.md
+- LICENSE.md
+- bower.json
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+company: Grant Armour
+email: info@grantarmour.com
+google_site_verification: 
+analytics: 
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%Y"
+future: true
+social:
+  instagram: https://www.instagram.com/grantarmour/
+  twitter: https://twitter.com/avantgrant
+  vimeo: https://vimeo.com/grantarmou
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
