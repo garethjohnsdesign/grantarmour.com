@@ -1,8 +1,8 @@
 ---
 title: Tirzah and Micachu — I’m Not Dancing
 date: 2013-08-27 00:00:00 Z
-position: 8
-is-front: false
+position: 1
+is-front: true
 image: "/uploads/im-not-dancing.jpg"
 vimeo: 73232470
 credit: Director / Editor / Camera

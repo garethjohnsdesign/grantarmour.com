@@ -25,9 +25,7 @@ defaults:
     image: 
     vimeo: 
     youtube: 
-    director: 
-    production-company: 
-    awards: 
+    credit: 
     layout: project
 url: http://grantarmour.com
 description: London-based Director specialising in documentaries, branded content

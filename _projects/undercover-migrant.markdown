@@ -1,7 +1,7 @@
 ---
 title: Undercover Migrant
 date: 2017-03-27 00:00:00 Z
-position: 8
+position: 3
 is-front: true
 image: "/uploads/undercover-migrant.jpg"
 vimeo: 210239989
