@@ -1,7 +1,7 @@
 ---
 title: Blood Sacrifice in Sumba
 date: 2015-01-16 00:00:00 Z
-position: 14
+position: 11
 is-front: true
 image: "/uploads/blood-sacrifice-in-sumba.jpg"
 vimeo: 73222831
