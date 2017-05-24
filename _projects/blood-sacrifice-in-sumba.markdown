@@ -5,6 +5,7 @@ position: 8
 is-front: true
 image: "/uploads/blood-sacrifice-in-sumba.jpg"
 vimeo: 73222831
+youtube: 
 credit: Director / Editor
 layout: project
 ---
