@@ -1,7 +1,7 @@
 ---
 title: Japan's Robot Hotel
 date: 2016-01-07 00:00:00 Z
-position: 3
+position: 4
 is-front: true
 image: "/uploads/japans-robot-hotel.jpg"
 vimeo: 151020881
