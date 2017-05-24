@@ -1,7 +1,7 @@
 ---
 title: Kwes and Friends
 date: 2013-08-20 00:00:00 Z
-position: 16
+position: 19
 is-front: false
 image: "/uploads/kwes-and-friends.jpg"
 vimeo: 151531447
