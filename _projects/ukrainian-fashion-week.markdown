@@ -1,7 +1,7 @@
 ---
 title: Ukrainian Fashion Week
 date: 2014-08-07 00:00:00 Z
-position: 9
+position: 10
 is-front: false
 image: "/uploads/ukrainian-fashion-week.jpg"
 vimeo: 102828344

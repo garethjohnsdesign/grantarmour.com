@@ -1,7 +1,7 @@
 ---
 title: British Wrestler
 date: 2013-08-20 00:00:00 Z
-position: 5
+position: 6
 is-front: false
 image: "/uploads/british-wrestler.jpg"
 vimeo: 72737591
