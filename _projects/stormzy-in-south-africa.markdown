@@ -1,7 +1,7 @@
 ---
 title: Stormzy in South Africa
 date: 2016-01-06 00:00:00 Z
-position: 7
+position: 6
 is-front: true
 image: "/uploads/stormzy-in-south-africa.jpg"
 vimeo: 150933175
