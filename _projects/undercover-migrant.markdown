@@ -3,7 +3,7 @@ title: Undercover Migrant
 date: 2017-03-27 00:00:00 Z
 position: 3
 is-front: true
-image: "/uploads/undercover-migrant.jpg"
+image: "/uploads/DSCF9930_web.jpg"
 vimeo: 210239989
 credit: Director / Producer / Camera
 layout: project
