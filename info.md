@@ -56,4 +56,4 @@ showreel: 84112969
 layout: info
 ---
 
-London-based Director specialising in documentaries, branded films and music videos.
+London-based Director specialising in documentaries for online & television, branded films and music videos.
