@@ -2,7 +2,7 @@
 title: Supersymmetry
 date: 2016-01-06 00:00:00 Z
 position: 7
-is-front: true
+is-front: false
 image: "/uploads/supersymmetry.jpg"
 vimeo: 138530149
 credit: Director / D.O.P / Original Music
