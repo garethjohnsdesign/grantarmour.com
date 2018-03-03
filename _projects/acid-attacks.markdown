@@ -3,9 +3,7 @@ title: Acid Attacks
 date: 2018-03-03 16:50:00 Z
 is-front: true
 image: "/uploads/DSCF0932%20copy%202%20(1).jpg"
-vimeo: |-
-  <iframe src="https://player.vimeo.com/video/258109108" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/258109108">ACID ATTACKS</a> from <a href="https://vimeo.com/grantarmour">Grant Armour</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+vimeo: 258109108
 credit: Producer / Director / Camera / Original Score
 layout: project
 ---
