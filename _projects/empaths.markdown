@@ -3,7 +3,7 @@ title: Empaths
 date: 2018-03-03 17:17:00 Z
 is-front: true
 image: "/uploads/Screen%20Shot%202018-03-03%20at%2017.34.37.png"
-vimeo: https://vimeo.com/258121795
+vimeo: 258121795
 layout: project
 ---
 
