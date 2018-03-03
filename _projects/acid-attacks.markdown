@@ -1,6 +1,7 @@
 ---
 title: Acid Attacks
 date: 2018-03-03 16:50:00 Z
+is-front: true
 image: "/uploads/DSCF0932%20copy%202%20(1).jpg"
 vimeo: https://vimeo.com/258109108
 credit: Producer / Director / Camera / Original Score
