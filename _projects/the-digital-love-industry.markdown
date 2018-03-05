@@ -1,7 +1,7 @@
 ---
 title: The Digital Love Industry
 date: 2015-09-02 00:00:00 Z
-position: 12
+position: 16
 is-front: false
 image: "/uploads/digital-love.jpg"
 vimeo: 138086011
