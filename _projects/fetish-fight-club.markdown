@@ -1,7 +1,7 @@
 ---
 title: Fetish Fight Club
 date: 2018-03-05 11:42:00 Z
-position: 2
+position: 1
 is-front: true
 image: "/uploads/VICE_MEET_FIGHTERS_ONLINE_CHANGES_KV.00_17_20_16.Still031.jpg"
 vimeo: 258592166
