@@ -2,11 +2,11 @@
 title: Very First Breath
 date: 2016-01-06 00:00:00 Z
 position: 13
-is-front: true
+is-front: false
 image: "/uploads/very-first-breath.jpg"
 vimeo: 148493462
 credit: Director
-layout: project
+layout: archive
 ---
 
 Noisey is proud to present the full length of Very First Breath : A Film About Hudson Mohawke, where we travel with Ross back to his family home in Glasgow.
