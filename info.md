@@ -56,4 +56,4 @@ showreel: 84112969
 layout: info
 ---
 
-Grant Armour is a London-based Producer / Director specialising in documentaries for online & television, branded films and music videos.
+Grant Armour is a London-based Producer / Director specialising in documentaries for online & television, branded films and music videos. 
