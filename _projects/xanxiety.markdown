@@ -5,6 +5,7 @@ is-front: true
 image: "/uploads/DSC00024%20(1).jpg"
 youtube: 9geVlf9OY30
 credit: Producer / Director / Camera / Original Score
+layout: default
 ---
 
 The US prescription med, Xanax has been influential in the recent wave of sad rap. With infamous rapper, Lil Pump, cutting a Xanax cake after reaching 1 million followers on Instagram. Since 21 year old rapper, Lil Peep died from a suspected Xanax related overdose, many US artists are denouncing Xan culture. But is this too late as fake versions of the highly addictive drug grip the UK? 
