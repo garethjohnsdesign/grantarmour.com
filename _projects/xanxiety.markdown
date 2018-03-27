@@ -3,7 +3,7 @@ title: Xanxiety
 date: 2018-03-22 16:06:00 Z
 is-front: true
 image: "/uploads/DSC00024%20(1).jpg"
-youtube: https://youtu.be/9geVlf9OY30
+youtube: 9geVlf9OY30
 credit: Producer / Director / Camera / Original Score
 layout: default
 ---
