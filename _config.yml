@@ -30,7 +30,7 @@ defaults:
 url: http://grantarmour.com
 description: London-based Director specialising in documentaries, branded content
   and music videos.
-job-title: Director
+job-title: Director / Producer
 permalink: pretty
 exclude:
 - Gruntfile.js
