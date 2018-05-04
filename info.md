@@ -57,3 +57,7 @@ layout: info
 ---
 
 Grant Armour is a London-based Director / Producer specialising in documentaries for online & television, branded films and music videos. 
+
+His work as both a director and a producer of editorial documentaries focuses on telling powerful character driven human-interest stories from the perspective of marginalised voices, such as: Xanxiety: Teenage Fake Xanax Epidemic, Acid Attacks, Fetish Fight Club & Undercover Migrant. 
+
+He has directed, produced and shot internationally for online and TV - filming stories on boy racers, young offenders, violent criminals, drug addiction, mental health, sex work, illegal raves, professional gamers, wild animals, space tourism, and worked on the Emmy-nominated series Gaycation.
