@@ -6,7 +6,7 @@ is-front: false
 image: "/uploads/supersymmetry.jpg"
 vimeo: 138530149
 credit: Director / D.O.P / Original Music
-layout: archive
+layout: project
 ---
 
 The world’s larger particle collider is back in action and colliding particles at greater energies than ever before. We visit the scientists hoping that the unprecedented power could lead to evidence for theories like supersymmetry—brand new physics that could shed light on some of the remaining mysteries of the universe.

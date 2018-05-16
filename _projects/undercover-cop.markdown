@@ -6,7 +6,7 @@ is-front: false
 image: "/uploads/undercover-cop.jpg"
 vimeo: 210240835
 credit: Director / Camera
-layout: archive
+layout: project
 ---
 
 A former undercover cop speaks to VICE about his experiences working on cases involving drugs, firearms, homicide, paedophilia and internal police corruption.
