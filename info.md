@@ -56,6 +56,8 @@ showreel: 84112969
 layout: info
 ---
 
+![_MG_8538.jpg](/uploads/_MG_8538.jpg)
+
 Grant Armour is a London-based Producer / Director specialising in documentaries for television and online, branded films, commercials and music videos.
 
 A video production professional with a proven track record of making engaging content and entertainment as part of VICE Media's award winning production team. Grant has expertise in a variety of areas of video production, including producing, directing, camera operating, video editing, music composition, sound design well as edit producing and supervising. He has experience of every stage of the storytelling process – from initial research, to casting characters and gaining access, constructing the narrative, creating the visual language, producing the edit and even composing the score.
