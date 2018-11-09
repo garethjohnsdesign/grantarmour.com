@@ -1,7 +1,7 @@
 ---
 title: Hex Ultra - Serpent Bearer
 date: 2018-11-09 21:46:00 Z
-image: "/uploads/SERPENT_BEARER_FINAL_anamorphic_YT.00_01_25_22.Still012.png"
+image: "/uploads/Screen%20Shot%202018-02-28%20at%2017.33.04.png"
 vimeo: 299957793
 credit: Director / D.O.P / Editor / Music
 ---
