@@ -56,7 +56,7 @@ showreel: 84112969
 layout: info
 ---
 
-![_MG_8538.jpg](/uploads/_MG_8538.jpg)
+![_MG_8538 copy.jpg](/uploads/_MG_8538%20copy.jpg)
 
 Grant Armour is a London-based Producer / Director specialising in documentaries for television and online, branded films, commercials and music videos.
 
