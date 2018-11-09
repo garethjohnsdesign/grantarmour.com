@@ -8,4 +8,4 @@ vimeo: 269869200
 credit: Director
 ---
 
-National UK advert for Old Blue Last Beer starring Alan Ford oldbluelast.beer/find-beer
+National UK advert for Old Blue Last Beer starring Alan Ford.
