@@ -2,7 +2,7 @@
 title: Spacecation
 date: 2016-01-06 00:00:00 Z
 position: 12
-is-front: true
+is-front: false
 image: "/uploads/spacecation.jpg"
 vimeo: 150893204
 credit: Director / Camera
