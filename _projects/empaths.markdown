@@ -2,7 +2,7 @@
 title: Empaths
 date: 2018-03-03 17:17:00 Z
 position: 5
-is-front: true
+is-front: false
 image: "/uploads/Screen%20Shot%202018-03-03%20at%2017.34.37.png"
 vimeo: 258121795
 credit: Producer / Director / Camera / Original Score
