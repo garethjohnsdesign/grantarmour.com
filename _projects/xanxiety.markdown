@@ -1,6 +1,7 @@
 ---
 title: Xanxiety
 date: 2018-03-27 10:56:00 Z
+position: 0
 is-front: true
 image: "/uploads/DSC00024%20(1).jpg"
 vimeo: 261990586
