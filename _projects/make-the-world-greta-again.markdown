@@ -5,7 +5,7 @@ is-front: true
 image: "/uploads/Screen%20Shot%202019-07-29%20at%2022.24.23.png"
 vimeo: 350823625
 credit: Director / Producer / Original Score
-layout: archive
+layout: project
 ---
 
 Upon realizing her generation won’t have a future unless the world’s politicians act now on climate change, then 15-year-old Greta Thunberg skipped school in August 2018 to protest outside the Swedish parliament. What started as a one person strike soon gained global momentum. 
