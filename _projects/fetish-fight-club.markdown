@@ -2,10 +2,11 @@
 title: Fetish Fight Club
 date: 2018-03-05 11:42:00 Z
 position: 4
-is-front: true
+is-front: false
 image: "/uploads/VICE_MEET_FIGHTERS_ONLINE_CHANGES_KV.00_17_20_16.Still031.jpg"
 vimeo: 258592166
 credit: Producer / Director / Camera
+layout: archive
 ---
 
 VICE enters the underground fetish wrestling community fuelled by social media site, MeetFighters.com - a dating site for gay men who fight each other for sexual gratification. 
