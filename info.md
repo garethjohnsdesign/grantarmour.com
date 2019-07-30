@@ -56,6 +56,8 @@ press:
   link: https://www.itsnicethat.com/articles/response-and-responsibility-make-the-world-greta-again-film-030719
 - title: The Guardian
   link: https://www.theguardian.com/tv-and-radio/2019/jan/09/wednesday-best-tv-ballet-bullets-bradley-walsh-son-breaking-dad-bikers
+- title: VICE
+  link: https://www.vice.com/en_uk/article/kzm3de/the-teenage-girls-building-their-own-ballet-school-in-a-rio-favela
 showreel: 84112969
 layout: info
 ---
