@@ -2,7 +2,7 @@
 title: Ballet & Bullets
 date: 2019-07-30 08:07:00 Z
 is-front: true
-image: "/uploads/_J9A8388b%20copy-29d8cc.jpg"
+image: "/uploads/Ballet_thumb.png"
 youtube: https://youtu.be/to0evRbb9lY
 credit: Edit Producer / Original Score
 layout: archive
