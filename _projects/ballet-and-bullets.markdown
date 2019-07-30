@@ -5,7 +5,6 @@ is-front: true
 image: "/uploads/Ballet_thumb.png"
 youtube: https://youtu.be/to0evRbb9lY
 credit: Edit Producer / Original Score
-layout: archive
 ---
 
 Ballet and Bullets: Dancing Out of the Favela” was produced with support from the Pulitzer Center on Crisis Reporting.
