@@ -1,7 +1,7 @@
 ---
 title: Eno On Apollo
 date: 2019-07-31 05:51:00 Z
-position: 3
+position: 2
 is-front: true
 image: "/uploads/BRIAN%20ENO%20THUMB.png"
 vimeo: 350961455
