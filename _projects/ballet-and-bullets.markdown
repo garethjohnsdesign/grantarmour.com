@@ -1,6 +1,7 @@
 ---
 title: Ballet & Bullets
 date: 2019-07-30 08:07:00 Z
+position: 1
 is-front: true
 image: "/uploads/Ballet_thumb.png"
 youtube: https://www.youtube.com/watch?v=to0evRbb9lY
