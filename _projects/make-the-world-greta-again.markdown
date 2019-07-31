@@ -1,6 +1,7 @@
 ---
 title: Make The World Greta Again
 date: 2019-07-29 21:25:00 Z
+position: 0
 is-front: true
 image: "/uploads/Screen%20Shot%202019-07-29%20at%2022.24.23.png"
 vimeo: 350823625

@@ -1,7 +1,7 @@
 ---
 title: The South Korean Love Industry
 date: 2015-02-06 00:00:00 Z
-position: 20
+position: 22
 is-front: false
 image: "/uploads/the-south-korean-love-industry.jpg"
 vimeo: 118920529
