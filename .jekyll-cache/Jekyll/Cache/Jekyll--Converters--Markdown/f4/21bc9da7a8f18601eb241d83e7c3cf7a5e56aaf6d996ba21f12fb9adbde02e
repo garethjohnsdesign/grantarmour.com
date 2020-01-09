@@ -1,0 +1,30 @@
+I"V<p>{% for post in site.posts limit: page.limit %}</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
+  "title": "{{ post.title }}",
+  "date"     : "{{ post.date | date: "%B %d, %Y" }}",
+
+  "excerpt" : "{{ post.excerpt }}",
+  {% if post.categories %} "categories"  : [
+    {% for category in post.categories %} "{{ category }}"
+    {% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+    ],
+  {% endif %}
+  {% if post.categories == nil %} "categories"  : [],  {% endif %}
+  "url": "{{ post.url }}",
+  {% if post.tags %} "tags"  : [
+    {% for tag in post.tags %} "{{ tag }}"
+    {% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+    ]
+  {% endif %}
+  {% if post.tags == nil %} "tags"  : []  {% endif %}
+
+}
+
+{% unless forloop.last %},{% endunless %}
+</code></pre></div></div>
+
+<p>{% endfor %}</p>
+:ET
