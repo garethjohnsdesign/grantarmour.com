@@ -1,7 +1,7 @@
 ---
 title: Info
 position: 4
-number: "+44 (0)78 9618 2191"
+number: 
 is-clients-shown: true
 clients:
 - title: Applied Minds
